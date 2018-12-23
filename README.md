@@ -1,7 +1,9 @@
 # fintweets
 
 Stock Data and Financial Tweets
+
 August 2018 – December 2018
+
 Database Project
 
 ● Gathered and calculated last 5 years’ stock data and financial tweets for stocks listed on NYSE, NASDAQ, and S&P 500
