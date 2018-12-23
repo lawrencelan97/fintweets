@@ -1,0 +1,1 @@
+Lookup table for Company names and ticker symbols.
