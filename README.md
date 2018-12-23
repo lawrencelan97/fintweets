@@ -1,4 +1,5 @@
 # fintweets
+
 Stock Data and Financial Tweets, Austin, TX
 August 2018 – December 2018
 Database Project
